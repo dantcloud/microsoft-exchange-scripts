@@ -1,1 +1,1 @@
-# microsoft-exchange-scripts
+# My Exchange related powershell scripts
